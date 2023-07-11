@@ -29,14 +29,4 @@ const FeedbackForm = ({ addFeedback }) => {
     </div>
   );
 };
-
-// const FeedbackForm = () => {
-//   return (
-//     <select name="feedbackSelection" className="feedbackSelections">
-//       <option value="good">good</option>
-//       <option value="neutral">neutral</option>
-//       <option value="bad">bad</option>
-//     </select>
-//   );
-// };
 export default FeedbackForm;
